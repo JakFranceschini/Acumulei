@@ -1,0 +1,18 @@
+name = "acumulei-ia"
+main = "gemini-proxy.js"
+compatibility_date = "2025-01-01"
+
+[vars]
+# Endereços do seu app que podem usar o Worker, separados por vírgula, sem "/" no final.
+# Troque pelo endereço real do seu site. Mantenha o localhost para testar.
+ALLOWED_ORIGINS = "https://acumulei-web.vercel.app,http://localhost:5173,http://192.168.15.9:5173"
+# Modelo da Gemini. Confira na documentação qual está disponível no plano gratuito.
+GEMINI_MODEL = "gemini-3.5-flash-lite"
+# Nível de raciocínio da Gemini: menor = mais rápido. Valores: minimal, low, medium, high.
+# Se o modelo não aceitar o nível pedido, o Worker tenta de novo sem ele.
+GEMINI_THINKING_LEVEL = "minimal"
+# Alternativas: "gemini-3.6-flash" (mais capaz, mais lento) ou "gemini-3.8-flash" (mínimo de raciocínio: "low").
+
+# Secrets (NÃO coloque aqui, use o comando `wrangler secret put`):
+#   GEMINI_API_KEY  -> sua chave do Google AI Studio
+#   APP_TOKEN       -> uma senha longa qualquer, a mesma que você digita nas configurações do assistente
