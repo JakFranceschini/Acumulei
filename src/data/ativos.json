@@ -1,0 +1,499 @@
+{
+  "aapl": {
+    "nome": "Apple",
+    "classe": "stock",
+    "quantidade": 6.918,
+    "preco_medio": 87.76,
+    "porcentagem_meta": 5.0
+  },
+  "amzn": {
+    "nome": "Amazon",
+    "classe": "stock",
+    "quantidade": 5.496,
+    "preco_medio": 155.3,
+    "porcentagem_meta": 5.0
+  },
+  "aph": {
+    "nome": "Amphenol",
+    "classe": "stock",
+    "quantidade": 0.0,
+    "preco_medio": 0.0,
+    "porcentagem_meta": 5.0
+  },
+  "asml": {
+    "nome": "ASML Holding",
+    "classe": "stock",
+    "quantidade": 0.69091,
+    "preco_medio": 781.56,
+    "porcentagem_meta": 5.0
+  },
+  "cmg": {
+    "nome": "Chipotle Mexican Grill",
+    "classe": "stock",
+    "quantidade": 0.0,
+    "preco_medio": 0.0,
+    "porcentagem_meta": 5.0
+  },
+  "cost": {
+    "nome": "CostCo",
+    "classe": "stock",
+    "quantidade": 1.0396,
+    "preco_medio": 336.37,
+    "porcentagem_meta": 5.0
+  },
+  "cprt": {
+    "nome": "Copart",
+    "classe": "stock",
+    "quantidade": 0.0,
+    "preco_medio": 0.0,
+    "porcentagem_meta": 5.0
+  },
+  "dhr": {
+    "nome": "Danaher",
+    "classe": "stock",
+    "quantidade": 0.0,
+    "preco_medio": 0.0,
+    "porcentagem_meta": 5.0
+  },
+  "fast": {
+    "nome": "Fasternal",
+    "classe": "stock",
+    "quantidade": 7.47858,
+    "preco_medio": 33.83,
+    "porcentagem_meta": 5.0
+  },
+  "googl": {
+    "nome": "Alphabet",
+    "classe": "stock",
+    "quantidade": 4.1112,
+    "preco_medio": 142.74,
+    "porcentagem_meta": 5.0
+  },
+  "isrg": {
+    "nome": "Intuitive Surgical",
+    "classe": "stock",
+    "quantidade": 0.0,
+    "preco_medio": 0.0,
+    "porcentagem_meta": 5.0
+  },
+  "jnj": {
+    "nome": "Johnson e Johnson",
+    "classe": "stock",
+    "quantidade": 1.66798,
+    "preco_medio": 151.68,
+    "porcentagem_meta": 5.0
+  },
+  "ko": {
+    "nome": "Coca Cola",
+    "classe": "stock",
+    "quantidade": 3.2888,
+    "preco_medio": 49.28,
+    "porcentagem_meta": 5.0
+  },
+  "mcd": {
+    "nome": "McDonald's",
+    "classe": "stock",
+    "quantidade": 0.93155,
+    "preco_medio": 271.59,
+    "porcentagem_meta": 5.0
+  },
+  "meta": {
+    "nome": "Meta",
+    "classe": "stock",
+    "quantidade": 1.3996,
+    "preco_medio": 261.86,
+    "porcentagem_meta": 5.0
+  },
+  "mnst": {
+    "nome": "Monster",
+    "classe": "stock",
+    "quantidade": 4.23689,
+    "preco_medio": 52.09,
+    "porcentagem_meta": 5.0
+  },
+  "msft": {
+    "nome": "Microsoft",
+    "classe": "stock",
+    "quantidade": 0.60511,
+    "preco_medio": 418.11,
+    "porcentagem_meta": 5.0
+  },
+  "nvda": {
+    "nome": "Nvidia",
+    "classe": "stock",
+    "quantidade": 2.7263,
+    "preco_medio": 92.8,
+    "porcentagem_meta": 5.0
+  },
+  "tsla": {
+    "nome": "Tesla",
+    "classe": "stock",
+    "quantidade": 1.49296,
+    "preco_medio": 174.15,
+    "porcentagem_meta": 5.0
+  },
+  "wdfc": {
+    "nome": "WD-40",
+    "classe": "stock",
+    "quantidade": 1.05027,
+    "preco_medio": 240.89,
+    "porcentagem_meta": 5.0
+  },
+  "adc": {
+    "nome": "Agree Realty Corporation",
+    "classe": "reit",
+    "quantidade": 0.0,
+    "preco_medio": 0.0,
+    "porcentagem_meta": 5.0
+  },
+  "amt": {
+    "nome": "American Tower",
+    "classe": "reit",
+    "quantidade": 2.513,
+    "preco_medio": 207.2,
+    "porcentagem_meta": 5.0
+  },
+  "are": {
+    "nome": "Alexandria Real State",
+    "classe": "reit",
+    "quantidade": 2.80401,
+    "preco_medio": 98.0,
+    "porcentagem_meta": 5.0
+  },
+  "avb": {
+    "nome": "AvalonBay",
+    "classe": "reit",
+    "quantidade": 0.66317,
+    "preco_medio": 190.74,
+    "porcentagem_meta": 5.0
+  },
+  "cuz": {
+    "nome": "Cousin Properties",
+    "classe": "reit",
+    "quantidade": 0.0,
+    "preco_medio": 0.0,
+    "porcentagem_meta": 5.0
+  },
+  "dlr": {
+    "nome": "Digital Realty",
+    "classe": "reit",
+    "quantidade": 0.0,
+    "preco_medio": 0.0,
+    "porcentagem_meta": 5.0
+  },
+  "eqix": {
+    "nome": "Equinix",
+    "classe": "reit",
+    "quantidade": 0.22395,
+    "preco_medio": 695.87,
+    "porcentagem_meta": 5.0
+  },
+  "ess": {
+    "nome": "Essex",
+    "classe": "reit",
+    "quantidade": 3.04846,
+    "preco_medio": 220.98,
+    "porcentagem_meta": 5.0
+  },
+  "ltc": {
+    "nome": "LTC Properties",
+    "classe": "reit",
+    "quantidade": 0.0,
+    "preco_medio": 0.0,
+    "porcentagem_meta": 5.0
+  },
+  "nnn": {
+    "nome": "National Retail",
+    "classe": "reit",
+    "quantidade": 11.552843,
+    "preco_medio": 42.85,
+    "porcentagem_meta": 5.0
+  },
+  "o": {
+    "nome": "Realty Income",
+    "classe": "reit",
+    "quantidade": 10.5921,
+    "preco_medio": 57.87,
+    "porcentagem_meta": 5.0
+  },
+  "pld": {
+    "nome": "Prologis",
+    "classe": "reit",
+    "quantidade": 1.56065,
+    "preco_medio": 117.73,
+    "porcentagem_meta": 5.0
+  },
+  "psa": {
+    "nome": "Public Storage",
+    "classe": "reit",
+    "quantidade": 1.96196,
+    "preco_medio": 283.07,
+    "porcentagem_meta": 5.0
+  },
+  "slg": {
+    "nome": "SL Green",
+    "classe": "reit",
+    "quantidade": 10.26116,
+    "preco_medio": 29.54,
+    "porcentagem_meta": 5.0
+  },
+  "spg": {
+    "nome": "Simon Property Group",
+    "classe": "reit",
+    "quantidade": 0.0,
+    "preco_medio": 0.0,
+    "porcentagem_meta": 5.0
+  },
+  "stag": {
+    "nome": "Stag Industrial",
+    "classe": "reit",
+    "quantidade": 0.0,
+    "preco_medio": 0.0,
+    "porcentagem_meta": 5.0
+  },
+  "trno": {
+    "nome": "Terreno",
+    "classe": "reit",
+    "quantidade": 9.64399,
+    "preco_medio": 57.23,
+    "porcentagem_meta": 5.0
+  },
+  "vno": {
+    "nome": "Vornado",
+    "classe": "reit",
+    "quantidade": 1.78219,
+    "preco_medio": 40.68,
+    "porcentagem_meta": 5.0
+  },
+  "vtr": {
+    "nome": "Ventas",
+    "classe": "reit",
+    "quantidade": 3.78652,
+    "preco_medio": 44.47,
+    "porcentagem_meta": 5.0
+  },
+  "well": {
+    "nome": "Welltower",
+    "classe": "reit",
+    "quantidade": 0.0,
+    "preco_medio": 0.0,
+    "porcentagem_meta": 5.0
+  },
+  "egie3": {
+    "nome": "Engie",
+    "classe": "acao",
+    "quantidade": 49.0,
+    "preco_medio": 31.25,
+    "porcentagem_meta": 10.0
+  },
+  "eqtl3": {
+    "nome": "Equatorial energia",
+    "classe": "acao",
+    "quantidade": 66.0,
+    "preco_medio": 38.11,
+    "porcentagem_meta": 10.0
+  },
+  "flry3": {
+    "nome": "Fleury",
+    "classe": "acao",
+    "quantidade": 81.0,
+    "preco_medio": 12.56,
+    "porcentagem_meta": 10.0
+  },
+  "itub3": {
+    "nome": "Itaú",
+    "classe": "acao",
+    "quantidade": 33.0,
+    "preco_medio": 31.33,
+    "porcentagem_meta": 10.0
+  },
+  "pnvl3": {
+    "nome": "Dimed",
+    "classe": "acao",
+    "quantidade": 237.0,
+    "preco_medio": 10.23,
+    "porcentagem_meta": 10.0
+  },
+  "prio3": {
+    "nome": "PetroRio",
+    "classe": "acao",
+    "quantidade": 23.0,
+    "preco_medio": 42.6,
+    "porcentagem_meta": 10.0
+  },
+  "pssa3": {
+    "nome": "Porto Seguro",
+    "classe": "acao",
+    "quantidade": 32.0,
+    "preco_medio": 46.53,
+    "porcentagem_meta": 10.0
+  },
+  "radl3": {
+    "nome": "Raia Drogasil",
+    "classe": "acao",
+    "quantidade": 90.0,
+    "preco_medio": 22.87,
+    "porcentagem_meta": 10.0
+  },
+  "rent3": {
+    "nome": "Localiza Rent",
+    "classe": "acao",
+    "quantidade": 74.0,
+    "preco_medio": 33.62,
+    "porcentagem_meta": 10.0
+  },
+  "wege3": {
+    "nome": "Weg",
+    "classe": "acao",
+    "quantidade": 63.0,
+    "preco_medio": 47.47,
+    "porcentagem_meta": 10.0
+  },
+  "brco11": {
+    "nome": "Bresco",
+    "classe": "fii",
+    "quantidade": 10.0,
+    "preco_medio": 101.4,
+    "porcentagem_meta": 10.0
+  },
+  "btlg11": {
+    "nome": "BTG Pactual Logística",
+    "classe": "fii",
+    "quantidade": 10.0,
+    "preco_medio": 102.81,
+    "porcentagem_meta": 10.0
+  },
+  "ggrc11": {
+    "nome": "GGR Covepi",
+    "classe": "fii",
+    "quantidade": 245.0,
+    "preco_medio": 10.08,
+    "porcentagem_meta": 10.0
+  },
+  "hgbs11": {
+    "nome": "Hedge Brasil Shopping",
+    "classe": "fii",
+    "quantidade": 60.0,
+    "preco_medio": 17.81,
+    "porcentagem_meta": 10.0
+  },
+  "hglg11": {
+    "nome": "Patria Log",
+    "classe": "fii",
+    "quantidade": 7.0,
+    "preco_medio": 150.46,
+    "porcentagem_meta": 10.0
+  },
+  "hgre11": {
+    "nome": "Patria Escritórios",
+    "classe": "fii",
+    "quantidade": 10.0,
+    "preco_medio": 100.88,
+    "porcentagem_meta": 10.0
+  },
+  "hgru11": {
+    "nome": "Patria Renda Urbana",
+    "classe": "fii",
+    "quantidade": 10.0,
+    "preco_medio": 125.71,
+    "porcentagem_meta": 10.0
+  },
+  "hsml11": {
+    "nome": "HSI Malls",
+    "classe": "fii",
+    "quantidade": 13.0,
+    "preco_medio": 92.15,
+    "porcentagem_meta": 10.0
+  },
+  "knri11": {
+    "nome": "Kinea Renda Imobiliária",
+    "classe": "fii",
+    "quantidade": 8.0,
+    "preco_medio": 135.54,
+    "porcentagem_meta": 10.0
+  },
+  "pvbi11": {
+    "nome": "VBI Prime Properties",
+    "classe": "fii",
+    "quantidade": 18.0,
+    "preco_medio": 79.39,
+    "porcentagem_meta": 10.0
+  },
+  "voo": {
+    "nome": "Vanguard",
+    "classe": "etf",
+    "quantidade": 0.0,
+    "preco_medio": 0.0,
+    "porcentagem_meta": 10.0
+  },
+  "vtv": {
+    "nome": "Vanguard",
+    "classe": "etf",
+    "quantidade": 0.0,
+    "preco_medio": 0.0,
+    "porcentagem_meta": 10.0
+  },
+  "vbr": {
+    "nome": "Vanguard",
+    "classe": "etf",
+    "quantidade": 0.0,
+    "preco_medio": 0.0,
+    "porcentagem_meta": 10.0
+  },
+  "ijs": {
+    "nome": "iShares",
+    "classe": "etf",
+    "quantidade": 0.0,
+    "preco_medio": 0.0,
+    "porcentagem_meta": 10.0
+  },
+  "avuv": {
+    "nome": "Avantis",
+    "classe": "etf",
+    "quantidade": 0.0,
+    "preco_medio": 0.0,
+    "porcentagem_meta": 10.0
+  },
+  "vea": {
+    "nome": "Vanguard",
+    "classe": "etf",
+    "quantidade": 0.0,
+    "preco_medio": 0.0,
+    "porcentagem_meta": 10.0
+  },
+  "aviv": {
+    "nome": "Avantis",
+    "classe": "etf",
+    "quantidade": 0.0,
+    "preco_medio": 0.0,
+    "porcentagem_meta": 10.0
+  },
+  "avdv": {
+    "nome": "Avantis",
+    "classe": "etf",
+    "quantidade": 0.0,
+    "preco_medio": 0.0,
+    "porcentagem_meta": 10.0
+  },
+  "vwo": {
+    "nome": "Vanguard",
+    "classe": "etf",
+    "quantidade": 0.0,
+    "preco_medio": 0.0,
+    "porcentagem_meta": 10.0
+  },
+  "aves": {
+    "nome": "Avantis",
+    "classe": "etf",
+    "quantidade": 0.0,
+    "preco_medio": 0.0,
+    "porcentagem_meta": 10.0
+  },
+  "btc": {
+    "nome": "Bitcoin",
+    "classe": "bitcoin",
+    "quantidade": 0.03350614,
+    "preco_medio": 577904.59,
+    "porcentagem_meta": 100.0
+  }
+}
